@@ -31,6 +31,7 @@ body {
 
 #nav h4 {
   font-size: 20px;
+  font-weight: 600;
 }
 
 #nav i {
@@ -38,4 +39,27 @@ body {
   padding: 10px;
   color: white;
   border-radius: 50%;
+}
+
+#center {
+  width: 100%;
+  padding: 20px 80px;
+}
+
+#center h1 {
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 85px;
+}
+
+#center-in {
+  height: 200px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+#center-in p {
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 600;
 }
